@@ -28,7 +28,7 @@ npm i
 ```
 
 # 6. Modify the annotations in the mint.ts file to suit you
-# 7. Practice
+# 7. RUN
 ```
 node mint.ts
 ```
